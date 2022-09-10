@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    background-color: black;
+}
+
+#demo {
+    color: crimson;
+    background-color: blueviolet;
+    font-size: 30px;
+}
+
+#demoTwo {
+    color: black;
+    background-color: blueviolet;
+}
